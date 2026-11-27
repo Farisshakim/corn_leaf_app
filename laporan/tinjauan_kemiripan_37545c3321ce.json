@@ -1,0 +1,126 @@
+{
+  "versi": 1,
+  "dataset": "/Users/accountmac/Coding/corn_leaf_app/dataset",
+  "metode": "dHash 64 bit dan tinjauan manual",
+  "keputusan": {
+    "7d0b9ffaeaddd71051bc18703349522f2c4b6f6edbaaea77dc6b66d5d6bfc4d2": {
+      "status": "terkait",
+      "jarak_dhash": 1,
+      "file": [
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Healthy/Corn_Health (199).JPG",
+          "ukuran_bytes": 19326,
+          "mtime_ns": 1605076776000000000
+        },
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Healthy/Corn_Health (372).jpg",
+          "ukuran_bytes": 19395,
+          "mtime_ns": 1605076776000000000
+        }
+      ],
+      "waktu_utc": "2026-11-27T08:22:55.907633+00:00"
+    },
+    "cf77b211e245f5403074663e4da77e84ab6172c99f5a23e99a92557a8c6f331c": {
+      "status": "terkait",
+      "jarak_dhash": 1,
+      "file": [
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Healthy/Corn_Health (250).jpg",
+          "ukuran_bytes": 8501,
+          "mtime_ns": 1605076776000000000
+        },
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Healthy/Corn_Health (453).jpg",
+          "ukuran_bytes": 8492,
+          "mtime_ns": 1605076776000000000
+        }
+      ],
+      "waktu_utc": "2026-11-27T08:22:59.268615+00:00"
+    },
+    "e9d6abdb71ae84095be07040d48cec2d367cecccdd55a1623734820ea2281dc4": {
+      "status": "terkait",
+      "jarak_dhash": 3,
+      "file": [
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Blight/Corn_Blight (283).JPG",
+          "ukuran_bytes": 12895,
+          "mtime_ns": 1605076766000000000
+        },
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Blight/Corn_Blight (542).jpg",
+          "ukuran_bytes": 13154,
+          "mtime_ns": 1605076766000000000
+        }
+      ],
+      "waktu_utc": "2026-11-27T08:23:01.974286+00:00"
+    },
+    "4bb520690011fde550de7ee8c987d480e2176f8c7d648987841e8e435321647c": {
+      "status": "berbeda",
+      "jarak_dhash": 4,
+      "file": [
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Gray_Leaf_Spot/Corn_Gray_Spot (446).JPG",
+          "ukuran_bytes": 12984,
+          "mtime_ns": 1605076776000000000
+        },
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Gray_Leaf_Spot/Corn_Gray_Spot (500).JPG",
+          "ukuran_bytes": 12191,
+          "mtime_ns": 1605076776000000000
+        }
+      ],
+      "waktu_utc": "2026-11-27T08:23:04.787310+00:00"
+    },
+    "3003e2df0287112eb6ffc19316921f7c0e44285efe5ad5cb8df807d6808a55f4": {
+      "status": "tinjau",
+      "jarak_dhash": 5,
+      "file": [
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Gray_Leaf_Spot/Corn_Gray_Spot (326).JPG",
+          "ukuran_bytes": 16458,
+          "mtime_ns": 1605076774000000000
+        },
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Gray_Leaf_Spot/Corn_Gray_Spot (446).JPG",
+          "ukuran_bytes": 12984,
+          "mtime_ns": 1605076776000000000
+        }
+      ],
+      "waktu_utc": "2026-11-27T08:23:25.186262+00:00"
+    },
+    "2cef34bcf7697b20cdcb5667bb5bce2e6e98680c57d5f9fde57c3d32955b4ec6": {
+      "status": "terkait",
+      "jarak_dhash": 6,
+      "file": [
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Blight/Corn_Blight (206).JPG",
+          "ukuran_bytes": 13868,
+          "mtime_ns": 1605076766000000000
+        },
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Blight/Corn_Blight (286).jpg",
+          "ukuran_bytes": 13826,
+          "mtime_ns": 1605076766000000000
+        }
+      ],
+      "waktu_utc": "2026-11-27T08:23:28.985645+00:00"
+    },
+    "56ca09a7dc23965eac7fe6167b559ca55e0c723948965213c58be8f0a4453a5f": {
+      "status": "terkait",
+      "jarak_dhash": 6,
+      "file": [
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Gray_Leaf_Spot/Corn_Gray_Spot (310).JPG",
+          "ukuran_bytes": 18284,
+          "mtime_ns": 1605076774000000000
+        },
+        {
+          "path": "/Users/accountmac/Coding/corn_leaf_app/dataset/Gray_Leaf_Spot/Corn_Gray_Spot (93).JPG",
+          "ukuran_bytes": 16039,
+          "mtime_ns": 1605076776000000000
+        }
+      ],
+      "waktu_utc": "2026-11-27T08:23:31.619255+00:00"
+    }
+  }
+}

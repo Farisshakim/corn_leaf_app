@@ -1,0 +1,56 @@
+{
+  "versi": 1,
+  "dataset": "/Users/accountmac/Coding/corn_leaf_app/dataset",
+  "catatan": {
+    "Blight/Corn_Blight (111).JPG": {
+      "status": "layak",
+      "alasan": "",
+      "kategori": "Blight",
+      "identitas": {
+        "ukuran_bytes": 13597,
+        "mtime_ns": 1605076764000000000
+      },
+      "waktu_utc": "2026-11-25T04:49:55.583690+00:00"
+    },
+    "Blight/Corn_Blight (112).JPG": {
+      "status": "layak",
+      "alasan": "",
+      "kategori": "Blight",
+      "identitas": {
+        "ukuran_bytes": 9226,
+        "mtime_ns": 1605076766000000000
+      },
+      "waktu_utc": "2026-11-25T04:50:05.349466+00:00"
+    },
+    "Blight/Corn_Blight (113).JPG": {
+      "status": "layak",
+      "alasan": "",
+      "kategori": "Blight",
+      "identitas": {
+        "ukuran_bytes": 13420,
+        "mtime_ns": 1605076766000000000
+      },
+      "waktu_utc": "2026-11-25T04:50:11.748832+00:00"
+    },
+    "Blight/Corn_Blight (114).JPG": {
+      "status": "layak",
+      "alasan": "",
+      "kategori": "Blight",
+      "identitas": {
+        "ukuran_bytes": 13728,
+        "mtime_ns": 1605076766000000000
+      },
+      "waktu_utc": "2026-11-25T04:50:15.566297+00:00"
+    },
+    "Blight/Corn_Blight (115).JPG": {
+      "status": "layak",
+      "alasan": "",
+      "kategori": "Blight",
+      "identitas": {
+        "ukuran_bytes": 18824,
+        "mtime_ns": 1605076766000000000
+      },
+      "waktu_utc": "2026-11-25T04:50:19.014881+00:00"
+    }
+  }
+}
